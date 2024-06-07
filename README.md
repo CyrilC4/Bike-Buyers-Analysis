@@ -10,3 +10,10 @@ The primary objective of this project is to perform a comprehensive analysis of 
 Bike Buyers Project Dataset: The primary dataset used for this analysis is the "Bike Buyers Project Dataset xlsx" file.
 
 [Bike Buyers Project Dataset.xlsx](https://github.com/user-attachments/files/15709348/Bike.Buyers.Project.Dataset.xlsx)
+
+### Tools
+- Excel 
+ 1. Data Cleaning
+ 2. Data Analysis
+- Power BI
+1. Creating reports.
