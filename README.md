@@ -12,8 +12,21 @@ Bike Buyers Project Dataset: The primary dataset used for this analysis is the "
 [Bike Buyers Project Dataset.xlsx](https://github.com/user-attachments/files/15709348/Bike.Buyers.Project.Dataset.xlsx)
 
 ### Tools
-- Excel 
- 1. Data Cleaning
- 2. Data Analysis
+
 - Power BI
-1. Creating reports.
+1. Data Analysis
+2. Creating reports.
+
+
+
+###  Data Analysis
+  ``` 
+DAX Expression
+ Total Income = SUM(bike_buyers[Income])
+  ```
+  ```
+  Average Income = AVERAGE(bike_buyers[Income])
+  ```
+
+ 
+ 
